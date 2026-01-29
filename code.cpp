@@ -7,7 +7,7 @@
 using namespace std;
 int main(){
     string command;
-    cout<<"Welcome to NamanShell v1.0\n";
+    cout<<"Welcome to FoolShell v1.0\n";
     cout<<"Type 'help' for commands\n";
     vector<string>  history;
 

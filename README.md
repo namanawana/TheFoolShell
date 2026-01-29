@@ -37,7 +37,7 @@ Arguments are supported as well, for example:
 ls -l
 cat notes.txt
 gcc main.cpp -o main
-## 🛠 Implementation Details
+## Implementation Details
 
 - `getline()` used for full input parsing
 - Commands tokenized using `stringstream` + `vector<string>`
